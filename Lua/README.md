@@ -7,6 +7,7 @@ Click on Assets then download something like UE4SS_v3.0.1-932-ge31aaaa6.zip
 Step 2:<br/>
 Extract the UE4SS zip folder's contents in FUNKYHEART\Engine\Binaries\Win64\ <br/>
 You will know if it work by pressing F10 in game, it should now bring up the Unreal Engine dev console.
+<img width="1294" height="358" alt="1" src="https://github.com/user-attachments/assets/ba45f764-b962-4a3c-98f4-5495a8c5296f" />
 
 Step 3:<br/>
 Download one my mod zip file and extract the mod's contents in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\

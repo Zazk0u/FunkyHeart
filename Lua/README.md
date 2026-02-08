@@ -10,5 +10,5 @@ Step 3:
 Download one my mod and extract the mod's contents in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\
 
 Step 4:
-Edit the mods.txt file in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ by adding the name of the downloaded mod.
+Edit the mods.txt file in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ by adding the name of the downloaded mod.<br/>
 Exemple: "InfiniteJumps : 1".

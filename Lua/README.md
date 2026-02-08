@@ -4,7 +4,7 @@ Download the experimental-latest version of the Unreal Engine 4/5 Scripting Syst
 https://github.com/UE4SS-RE/RE-UE4SS/releases
 
 Step 2:<br/>
-Extract the UE4SS zip folder's contents in FUNKYHEART\Engine\Binaries\Win64\<br/>
+Extract the UE4SS zip folder's contents in FUNKYHEART\Engine\Binaries\Win64\ <br/>
 You will know if it work as pressing F10 in game should now bring up the Unreal Engine dev console.
 
 Step 3:<br/>

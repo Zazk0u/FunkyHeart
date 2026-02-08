@@ -5,7 +5,7 @@ https://github.com/UE4SS-RE/RE-UE4SS/releases
 
 Step 2:<br/>
 Extract the UE4SS zip folder's contents in FUNKYHEART\Engine\Binaries\Win64\ <br/>
-You will know if it work as pressing F10 in game should now bring up the Unreal Engine dev console.
+You will know if it work by pressing F10 in game, it should now bring up the Unreal Engine dev console.
 
 Step 3:<br/>
 Download one my mod zip file and extract the mod's contents in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\

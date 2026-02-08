@@ -8,7 +8,7 @@ Extract the UE4SS zip folder's contents in FUNKYHEART\Engine\Binaries\Win64\
 
 Step 3:
 Download one my mod and extract the mod's contents in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\
-The structure should be FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\{Downloaded Mod}\Scripts\main.lua
+The structure should be FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\"Downloaded Mod"\Scripts\main.lua
 
 Step 4:
 Edit mods.txt in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ by adding the name of the downloaded mod, a colon, then 1.<br/>

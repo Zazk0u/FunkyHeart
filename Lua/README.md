@@ -1,7 +1,8 @@
 How to install a mod:<br/>
 Step 1:<br/>
 Download the experimental-latest version of the Unreal Engine 4/5 Scripting System<br/>
-https://github.com/UE4SS-RE/RE-UE4SS/releases
+https://github.com/UE4SS-RE/RE-UE4SS/releases <br/>
+Click on ASSET then downlaod something like UE4SS_v3.0.1-932-ge31aaaa6.zip
 
 Step 2:<br/>
 Extract the UE4SS zip folder's contents in FUNKYHEART\Engine\Binaries\Win64\ <br/>

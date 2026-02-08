@@ -17,9 +17,6 @@ FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\\"Downloaded Mod"\Scripts\main.lua<b
 
 Step 4:<br/>
 Edit mods.txt in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ by adding the name of the downloaded mod, a colon, then 1.<br/>
-
-Exemple:<br/> 
-InfiniteJumps : 1<br/>
 <img width="355" height="266" alt="3" src="https://github.com/user-attachments/assets/614cc99f-e80e-4ee1-bdb6-7b194e683037" />
 
 

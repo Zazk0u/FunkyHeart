@@ -20,6 +20,8 @@ Edit mods.txt in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ by adding the name
 
 Exemple:<br/> 
 InfiniteJumps : 1<br/>
+<img width="355" height="266" alt="3" src="https://github.com/user-attachments/assets/614cc99f-e80e-4ee1-bdb6-7b194e683037" />
+
 
 The mod won't launch if it's not done, you have to do this for every mods you download.
 

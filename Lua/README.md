@@ -24,5 +24,5 @@ InfiniteJumps : 1<br/>
 
 The mod won't launch if it's not done, you have to do this for every mods you download.
 
-Step 5:
+Step 5:<br/>
 You did it.

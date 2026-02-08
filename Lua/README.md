@@ -14,6 +14,7 @@ Download one my mod zip file and extract the mod's contents in FUNKYHEART\Engine
 
 The structure should endup look like:<br/>
 FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\\"Downloaded Mod"\Scripts\main.lua<br/>
+<img width="1661" height="191" alt="2" src="https://github.com/user-attachments/assets/a6223719-7948-43c1-94ba-aa1afc645163" />
 
 Don't accidentaly extract a zip mod folder of one of my mod and endup with a nested folder like this:
 FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\\"Downloaded Mod"\\"Downloaded Mod"\Scripts\main.lua

@@ -10,8 +10,7 @@ You will know if it work by pressing F10 in game, it should now bring up the Unr
 <img width="1294" height="358" alt="1" src="https://github.com/user-attachments/assets/ba45f764-b962-4a3c-98f4-5495a8c5296f" />
 
 Step 3:<br/>
-Download one my mod zip file and extract the mod's contents in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\
-
+Download one my mod zip file and extract the mod's contents in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ <br/>
 The structure should look like:<br/>
 FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\\"Downloaded Mod"\Scripts\main.lua<br/>
 <img width="1661" height="191" alt="2" src="https://github.com/user-attachments/assets/a6223719-7948-43c1-94ba-aa1afc645163" />

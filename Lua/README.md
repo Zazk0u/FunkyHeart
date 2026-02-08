@@ -18,5 +18,5 @@ FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\\"Downloaded Mod"\\"Downloaded Mod"\
 
 Step 4:<br/>
 Edit mods.txt in FUNKYHEART\Engine\Binaries\Win64\ue4ss\Mods\ by adding the name of the downloaded mod, a colon, then 1.<br/>
-Exemple: "InfiniteJumps : 1"<br/>
+Exemple: InfiniteJumps : 1<br/>
 The mod won't launch if it's not done, you have to do this for every mods you download.
